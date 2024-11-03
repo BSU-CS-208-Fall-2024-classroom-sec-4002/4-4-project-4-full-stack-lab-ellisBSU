@@ -1,3 +1,17 @@
 body{
-    background-color: hotpink;
+    background-color: blue;
+}
+
+h1, h2, p, li{
+    color: orange;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2, li {
+    text-decoration: overline; 
+}
+
+hr {
+    color: orange;
 }
